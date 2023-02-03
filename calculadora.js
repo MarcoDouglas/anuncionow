@@ -1,4 +1,4 @@
-/JavaScript	
+//JavaScript	
 	
 	//Função que definirá a visibilidade e placeholder
 	function ControleDeSelecao(){
